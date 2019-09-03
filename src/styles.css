@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+  background-color: #fff;
+  background-image: linear-gradient(#f4f4f4 5%, #fff 95%);
+  margin-top: 20px;
+}
+
+div {
+  box-sizing: border-box;
+}
